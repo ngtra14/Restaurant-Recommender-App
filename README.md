@@ -18,3 +18,7 @@ This restaurant recommendation system app is built using Python and JavaScript.
 The user interface is divided into two main sections: the left panel allows users to rate three restaurants based on three aspects—food, service, and time—using a 1 to 5 scale.
 
 After submitting their preferences, the system generates recommendations for three restaurants based on the user's sentiment and preferences.
+
+# Credit
+
+This is the team work done in my DVA course with collaboration from my teammates: Steve, Cuong and Jonathan. 
