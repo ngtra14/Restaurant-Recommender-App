@@ -21,4 +21,4 @@ After submitting their preferences, the system generates recommendations for thr
 
 # Credit
 
-This is the team project done in my DVA course with collaboration from my teammates: Steve, Cuong and Jonathan. 
+This is the team project done at Georgia Tech OMSA program -  Data Visualization and Analytics course with collaboration from my teammates: Steve Zheng, Cuong Pham and Jonathan Morgan. 
